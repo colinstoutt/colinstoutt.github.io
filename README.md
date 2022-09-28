@@ -2,15 +2,11 @@
 
 ## Wireframes
 
----
-
 <img src='wireframes/porfolio-wireframe-web.jpg' width='400px'>
 
 <img src='wireframes/porfolio-wireframe-mobile.jpg' width='200px'>
 
 ## Outline of content
-
----
 
 ### About section
 
@@ -30,8 +26,6 @@ Add clickable logo links to both my Github and my LinedIn.
 
 ## Technologies used
 
----
-
 HTML
 
 CSS
@@ -39,5 +33,3 @@ CSS
 JS
 
 ## API's/outside resources
-
----
