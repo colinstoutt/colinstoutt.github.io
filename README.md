@@ -13,7 +13,7 @@
 
 ## Wireframes
 
-<img src='wireframes/porfolio-wireframe-web.jpg' width='500px'>
+<img src='wireframes/porfolio-wireframe-web.jpg' width='600px'>
 
 <img src='wireframes/porfolio-wireframe-mobile.jpg' width='300px'>
 
