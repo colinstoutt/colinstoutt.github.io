@@ -26,7 +26,7 @@
 | Project Previews        |    H     |      3hr       |     hr      |
 | Regular Nav             |    H     |     30min      |     hr      |
 | Other sections and flex |    M     |      3hr       |     hr      |
-| Working with API        |    H     |      3hr       |     hr      |
+| Javascript animation    |    H     |      3hr       |     hr      |
 | Responsive              |    H     |      3hr       |     hr      |
 | Social Media Icons      |    L     |      1hr       |     hr      |
 | Total                   |    H     |    13.5hrs     |     hrs     |
@@ -35,13 +35,12 @@
 
 | Component                            | Priority | Estimated Time | Actual Time |
 | ------------------------------------ | :------: | :------------: | :---------: |
-| Edit a headshot photo in illustrator |    L     |     30min      |     hr      |
 | Dark mode/light mode                 |    L     |      3hr       |     hr      |
-| Contact form                         |    L     |      3hr       |     hr      |
-| Project preview images hover effect  |    L     |     20min      |     hr      |
-| Nav links hover effect               |    L     |     10min      |     hr      |
-| Social icons hover effect            |    L     |     10min      |     hr      |
-| TOTAL                                |    L     |     7.10hr     |     hr      |
+| Direct Contact form                  |    H     |      3hr       |     hr      |
+| Hover effects                        |    L     |     40min      |     hr      |
+| Bootstrap                            |    L     |      3hr       |     hr      |
+| Edit a headshot photo in illustrator |    L     |     30min      |     hr      |
+| TOTAL                                |    L     |    10.10hr     |     hr      |
 
 ## Outline of content
 
@@ -50,6 +49,8 @@
 Three anchor tags. About, Projects, and Contact.
 
 The contact link will have two social logos animate out from the side on hover.
+
+If I have time I will try to impliment a dark mode/light mode switch.
 
 ### About section
 
