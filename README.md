@@ -60,7 +60,7 @@ Relevent skills
 
 A z-grid layout of my projects with titles and descriptions explaing what the project is, why I did it, and what technologies were used.
 
-Each preview will link to a directly to its github repo.
+Each preview will link directly to its github repo.
 
 ### Contact section
 
