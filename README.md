@@ -13,9 +13,9 @@
 
 ## Wireframes
 
-<img src='wireframes/portfolio-wireframe-web.jpg' width='600px'>
+<img src='wireframes/portfolio-wireframe-desktop.jpg' width='600px'>
 
-<img src='wireframes/porfolio-wireframe-mobile.jpg' width='300px'>
+<img src='wireframes/portfolio-wireframe-mobile.jpg' width='300px'>
 
 ## Time/Priority Matrix
 
