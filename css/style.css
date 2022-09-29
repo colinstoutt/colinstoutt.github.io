@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+html {
+  font-size: 62.5%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  background-color: #272e43;
+  font-family: "Inter", sans-serif;
+  color: white;
+}
+
+p {
+  width: 1px;
+  margin: auto;
+}
+nav {
+  position: absolute;
+  font-size: 1.5rem;
+  left: 0;
+  right: 0;
+  top: 7rem;
+  text-align: center;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+  font-weight: 300;
+  margin: 0 2rem 0 2rem;
+}
+
+#section-hero {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+#circle {
+  width: 11rem;
+  height: 11rem;
+  background-color: grey;
+  border-radius: 50%;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+#section-hero h1 {
+  margin: 0 0 -1rem 0;
+  text-align: center;
+  font-weight: 200;
+  font-size: 3.5rem;
+}
+#section-hero span {
+  font-weight: 500;
+}
+
+#section-about {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+.fa-solid {
+  position: absolute;
+  font-size: 3rem;
+  left: 0;
+  right: 0;
+  bottom: 7rem;
+  text-align: center;
+}
