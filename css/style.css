@@ -161,7 +161,10 @@ nav a {
 }
 
 #section-contact {
-  padding-bottom: 4rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 #section-contact h1 {
   font-weight: 300;
@@ -179,8 +182,24 @@ input {
 }
 #message {
   margin-top: 0.5rem;
+  height: 20rem;
 }
 #name,
 #email {
   margin-bottom: 0.5rem;
+}
+
+footer {
+  height: 10rem;
+  background-color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+}
+footer i {
+  font-size: 4rem;
+}
+.fa-linkedin {
+  color: #31a8ff;
 }
