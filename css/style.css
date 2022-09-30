@@ -159,3 +159,28 @@ nav a {
   width: 27rem;
   font-size: 1.5rem;
 }
+
+#section-contact {
+  padding-bottom: 4rem;
+}
+#section-contact h1 {
+  font-weight: 300;
+  font-size: 2.5rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  border-radius: 5px;
+}
+#message {
+  margin-top: 0.5rem;
+}
+#name,
+#email {
+  margin-bottom: 0.5rem;
+}
