@@ -22,7 +22,6 @@ p {
 }
 nav {
   position: absolute;
-  font-size: 1.5rem;
   left: 0;
   right: 0;
   top: 7rem;
@@ -34,6 +33,7 @@ nav a {
   letter-spacing: 1.5px;
   font-weight: 300;
   margin: 0 2rem 0 2rem;
+  font-size: 2rem;
 }
 
 #section-hero {
@@ -64,10 +64,7 @@ nav a {
 
 #section-about {
   background-color: white;
-  display: flex;
-  flex-direction: column;
   height: 100vh;
-  justify-content: center;
 }
 .fa-solid {
   position: absolute;
@@ -76,4 +73,55 @@ nav a {
   right: 0;
   bottom: 7rem;
   text-align: center;
+}
+
+#section-about {
+  color: #272e43;
+  text-align: center;
+}
+#section-about h1 {
+  font-weight: 300;
+  font-size: 2.5rem;
+  padding-top: 20rem;
+}
+#section-about h3 {
+  font-size: 2rem;
+  margin: 0 1rem 1rem 1rem;
+}
+
+#section-about h2 {
+  font-weight: 300;
+  font-size: 2.2rem;
+  margin-top: 5rem;
+}
+#section-about p {
+  margin: auto;
+  width: 30rem;
+  font-size: 1.5rem;
+}
+
+.skill-pill {
+  padding: 0.7rem;
+  border-radius: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5rem;
+  width: 10rem;
+  font-weight: 700;
+  color: #222;
+}
+#html {
+  background-color: #fe673f;
+}
+#css {
+  background-color: #2965f1;
+}
+#javascript {
+  background-color: #ffc700;
+}
+#photoshop {
+  background-color: #31a8ff;
+}
+#illustrator {
+  background-color: #f8a829;
 }
