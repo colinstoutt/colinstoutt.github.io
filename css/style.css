@@ -86,7 +86,9 @@ nav a {
 }
 #section-about h3 {
   font-size: 2rem;
-  margin: 0 1rem 1rem 1rem;
+  margin: auto;
+  margin-bottom: 1rem;
+  width: 30rem;
 }
 
 #section-about h2 {
@@ -96,7 +98,7 @@ nav a {
 }
 #section-about p {
   margin: auto;
-  width: 30rem;
+  width: 25rem;
   font-size: 1.5rem;
 }
 
