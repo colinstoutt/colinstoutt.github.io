@@ -127,3 +127,35 @@ nav a {
 #illustrator {
   background-color: #f8a829;
 }
+
+#section-projects {
+  text-align: center;
+  background-color: #272e43;
+  padding-bottom: 4rem;
+}
+
+#section-projects h1 {
+  font-weight: 300;
+  font-size: 2.5rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+.project-window {
+  width: 25rem;
+  height: 15rem;
+  border-radius: 5px;
+  background-color: grey;
+  margin: auto;
+}
+.project-title {
+  font-size: 2.5rem;
+  margin: 1rem 0 1rem 0;
+}
+.project-description {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 4rem;
+  width: 27rem;
+  font-size: 1.5rem;
+}
