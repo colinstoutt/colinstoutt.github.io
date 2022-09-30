@@ -2,6 +2,7 @@
 
 html {
   font-size: 62.5%;
+  height: -webkit-fill-available;
 }
 body {
   margin: 0;
@@ -11,6 +12,8 @@ body {
   background-color: #272e43;
   font-family: "Inter", sans-serif;
   color: white;
+  height: 100vh;
+  height: -webkit-fill-available;
 }
 
 p {
