@@ -8,7 +8,6 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
   background-color: #272e43;
   font-family: "Inter", sans-serif;
   color: white;
@@ -45,10 +44,10 @@ nav a {
 }
 
 #circle {
-  width: 11rem;
-  height: 11rem;
+  width: 16rem;
+  height: 12rem;
   background-color: grey;
-  border-radius: 50%;
+  border-radius: 5px;
   margin: auto;
   margin-bottom: 1rem;
 }
@@ -74,7 +73,6 @@ nav a {
   bottom: 7rem;
   text-align: center;
 }
-
 #section-about {
   color: #272e43;
   text-align: center;
@@ -90,7 +88,6 @@ nav a {
   margin-bottom: 1rem;
   width: 30rem;
 }
-
 #section-about h2 {
   font-weight: 300;
   font-size: 2.2rem;
@@ -101,7 +98,6 @@ nav a {
   width: 25rem;
   font-size: 1.5rem;
 }
-
 .skill-pill {
   padding: 0.7rem;
   border-radius: 50px;
@@ -133,7 +129,6 @@ nav a {
   background-color: #272e43;
   padding-bottom: 4rem;
 }
-
 #section-projects h1 {
   font-weight: 300;
   font-size: 2.5rem;
@@ -164,7 +159,7 @@ nav a {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
 }
 #section-contact h1 {
   font-weight: 300;
@@ -177,7 +172,7 @@ form {
   text-align: center;
 }
 input {
-  padding: 1rem;
+  padding: 0.5rem;
   border-radius: 5px;
 }
 #message {
@@ -196,6 +191,7 @@ footer {
   justify-content: center;
   align-items: center;
   gap: 1.2rem;
+  margin-top: 14rem;
 }
 footer i {
   font-size: 4rem;
