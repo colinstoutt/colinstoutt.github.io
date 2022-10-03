@@ -3,6 +3,7 @@
 html {
   font-size: 62.5%;
   height: -webkit-fill-available;
+  scroll-behavior: smooth;
 }
 body {
   margin: 0;
@@ -246,7 +247,7 @@ footer i {
     display: inline-block;
     font-size: 2rem;
     margin: 2rem 5rem 0 5rem;
-    margin-left: 7rem;
+    margin-left: 8rem;
     border-radius: 50px;
     border: 1px solid rgba(0, 0, 0, 0);
     padding: 1rem 3rem;
