@@ -131,6 +131,9 @@ nav a {
   border: 1px solid #f8a829;
 }
 
+#projects-web {
+  display: none;
+}
 #section-projects {
   text-align: center;
   background-color: #272e43;
