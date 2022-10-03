@@ -4,9 +4,9 @@
 
 | Day   | Deliverable                                  | Status     |
 | ----- | -------------------------------------------- | ---------- |
-| Day 1 | Project Description                          | Incomplete |
-| Day 2 | Wireframes / Priority Matrix / Timeline      | Incomplete |
-| Day 3 | Core Application Structure (HTML, CSS, etc.) | Incomplete |
+| Day 1 | Project Description                          | Complete   |
+| Day 2 | Wireframes / Priority Matrix / Timeline      | Complete   |
+| Day 3 | Core Application Structure (HTML, CSS, etc.) | Complete   |
 | Day 4 | MVP & Bug Fixes                              | Incomplete |
 | Day 5 | Final Touches                                | Incomplete |
 | Day 6 | Present                                      | Incomplete |
@@ -26,8 +26,8 @@
 | Project Previews        |    H     |      3hr       |     hr      |
 | Regular Nav             |    H     |     30min      |     1hr     |
 | Other sections and flex |    M     |      3hr       |     3hr     |
-| Javascript animation    |    H     |      3hr       |     hr      |
-| Responsive              |    H     |      3hr       |     hr      |
+| Javascript animation    |    H     |      3hr       |     1hr     |
+| Responsive              |    H     |      3hr       |     3hr     |
 | Social Media Icons      |    L     |      1hr       |     1hr     |
 | Total                   |    H     |    13.5hrs     |     hrs     |
 
@@ -37,8 +37,7 @@
 | ------------------------------------ | :------: | :------------: | :---------: |
 | Dark mode/light mode                 |    L     |      3hr       |     hr      |
 | Direct Contact form                  |    H     |      3hr       |     hr      |
-| Hover effects                        |    L     |     40min      |     hr      |
-| Bootstrap                            |    L     |      3hr       |     hr      |
+| Hover effects                        |    L     |     40min      |     1hr     |
 | Edit a headshot photo in illustrator |    L     |     30min      |     hr      |
 | TOTAL                                |    L     |    10.10hr     |     hr      |
 
