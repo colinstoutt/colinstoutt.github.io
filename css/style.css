@@ -34,6 +34,28 @@ nav a {
 #about-link {
   display: none;
 }
+#github-contact,
+#linkedin-contact {
+  opacity: 0;
+}
+#contact-link {
+  position: relative;
+  z-index: 2;
+}
+#github-contact {
+  z-index: 2;
+  position: absolute;
+  top: 8.7rem;
+  right: 15rem;
+  font-size: 3rem;
+}
+#linkedin-contact {
+  z-index: 2;
+  position: absolute;
+  top: 8.7rem;
+  right: 15rem;
+  font-size: 3rem;
+}
 
 #section-hero {
   display: flex;
@@ -41,6 +63,7 @@ nav a {
   height: 100vh;
   height: -webkit-fill-available;
   justify-content: center;
+  min-height: 800px;
 }
 
 #photo-gallery {
@@ -141,7 +164,7 @@ nav a {
 }
 #section-projects h1 {
   font-weight: 300;
-  font-size: 2.5rem;
+  font-size: 3rem;
   padding-top: 3rem;
   padding-bottom: 2rem;
 }
@@ -235,7 +258,7 @@ footer i {
   color: white;
 }
 /* MEDIA QUERIES */
-@media (min-width: 900px) {
+@media (min-width: 840px) {
   #about-link {
     display: inline;
   }
@@ -250,11 +273,16 @@ footer i {
     margin-left: 8rem;
     border-radius: 50px;
     border: 1px solid rgba(0, 0, 0, 0);
-    padding: 1rem 3rem;
+    /* padding: 1rem 3rem; */
   }
   #photo-gallery {
     width: 20rem;
     height: 15rem;
+    margin-top: 10rem;
+  }
+
+  #section-hero {
+    min-height: 800px;
   }
   #section-hero h1 {
     font-size: 6rem;
@@ -340,12 +368,27 @@ footer i {
 
   /* Hover elements */
   nav a {
+    position: relative;
+    color: lightgrey;
+  }
+
+  nav a:after {
+    content: "";
+    position: absolute;
+    background-color: #31a8ff;
+    height: 3px;
+    width: 0;
+    bottom: -1rem;
+    left: 0;
     transition: all 0.3s;
   }
+
   nav a:hover {
-    border: 1px solid rgba(255, 255, 255, 0.347);
-    padding: 1rem 3rem;
-    border-radius: 50px;
+    color: white;
+  }
+  nav a:hover:after {
+    color: white;
+    width: 100%;
   }
   button {
     transition: all 0.3s;
