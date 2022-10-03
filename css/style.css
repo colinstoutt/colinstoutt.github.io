@@ -165,8 +165,8 @@ nav a {
 #section-contact h1 {
   font-weight: 300;
   font-size: 2.5rem;
-  padding-top: 3rem;
   padding-bottom: 2rem;
+  margin-top: 0;
 }
 form {
   text-align: center;
@@ -210,7 +210,6 @@ footer {
   justify-content: center;
   align-items: center;
   gap: 1.2rem;
-  margin-top: 14rem;
 }
 footer i {
   font-size: 4rem;
@@ -218,3 +217,5 @@ footer i {
 .fa-linkedin {
   color: #31a8ff;
 }
+
+/* MEDIA QUERIES */
