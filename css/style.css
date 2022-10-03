@@ -15,10 +15,6 @@ body {
   height: -webkit-fill-available;
 }
 
-p {
-  width: 1px;
-  margin: auto;
-}
 nav {
   position: absolute;
   left: 0;
@@ -33,6 +29,9 @@ nav a {
   font-weight: 300;
   margin: 0 2rem 0 2rem;
   font-size: 2rem;
+}
+#about-link {
+  display: none;
 }
 
 #section-hero {
@@ -76,27 +75,34 @@ nav a {
 #section-about {
   color: #272e43;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
 }
 #section-about h1 {
   font-weight: 300;
   font-size: 2.5rem;
-  padding-top: 20rem;
 }
 #section-about h3 {
   font-size: 2rem;
-  margin: auto;
-  margin-bottom: 1rem;
+
   width: 30rem;
 }
 #section-about h2 {
   font-weight: 300;
   font-size: 2.2rem;
-  margin-top: 5rem;
+  /* margin-top: 5rem; */
 }
 #section-about p {
-  margin: auto;
+  /* margin: auto; */
   width: 25rem;
   font-size: 1.5rem;
+}
+.angles-down-link {
+  color: white;
+  text-decoration: none;
 }
 .skill-pill {
   padding: 0.7rem;
@@ -127,7 +133,6 @@ nav a {
 #section-projects {
   text-align: center;
   background-color: #272e43;
-  padding-bottom: 4rem;
 }
 #section-projects h1 {
   font-weight: 300;
@@ -154,7 +159,6 @@ nav a {
   width: 27rem;
   font-size: 1.5rem;
 }
-
 #section-contact {
   height: 100vh;
   display: flex;
@@ -214,9 +218,12 @@ footer {
 }
 footer i {
   font-size: 4rem;
+  text-decoration: none;
 }
 .fa-linkedin {
   color: #31a8ff;
 }
-
+.fa-github {
+  color: white;
+}
 /* MEDIA QUERIES */

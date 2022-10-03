@@ -24,11 +24,11 @@
 | Component               | Priority | Estimated Time | Actual Time |
 | ----------------------- | :------: | :------------: | :---------: |
 | Project Previews        |    H     |      3hr       |     hr      |
-| Regular Nav             |    H     |     30min      |     hr      |
-| Other sections and flex |    M     |      3hr       |     hr      |
+| Regular Nav             |    H     |     30min      |     1hr     |
+| Other sections and flex |    M     |      3hr       |     3hr     |
 | Javascript animation    |    H     |      3hr       |     hr      |
 | Responsive              |    H     |      3hr       |     hr      |
-| Social Media Icons      |    L     |      1hr       |     hr      |
+| Social Media Icons      |    L     |      1hr       |     1hr     |
 | Total                   |    H     |    13.5hrs     |     hrs     |
 
 #### PostMVP

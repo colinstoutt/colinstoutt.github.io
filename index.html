@@ -16,6 +16,7 @@
   <body>
     <section id="section-hero">
       <nav>
+        <a id="about-link" href="#section-about">ABOUT</a>
         <a href="#section-projects">PROJECTS</a>
         <a href="#section-contact">CONTACT</a>
       </nav>
@@ -24,7 +25,9 @@
         <div id="circle"></div>
         <h1>colin<span>Stoutt</span></h1>
         <h1><span>software</span>Engineer</h1>
-        <i href="#section-about" class="fa-solid fa-angles-down"></i>
+        <a class="angles-down-link" href="#section-about"
+          ><i class="fa-solid fa-angles-down"></i
+        ></a>
       </div>
     </section>
     <section id="section-about">
@@ -66,7 +69,7 @@
           similique nostrum.
         </p>
       </div>
-      <div class="project">
+      <div id="project">
         <div class="project-window"></div>
         <h2 class="project-title">Project Title</h2>
         <p class="project-description">
@@ -81,18 +84,21 @@
       <h1></h1>
       <div>
         <h1>CONTACT</h1>
-
         <input id="name" type="text" placeholder="Name" />
         <input id="email" type="text" placeholder="Email" />
-
         <input id="subject" type="text" placeholder="Subject" />
         <textarea placeholder="Message"></textarea>
         <button>Send Message</button>
       </div>
     </section>
     <footer>
-      <i class="fa-brands fa-github"></i>
-      <i class="fa-brands fa-linkedin"></i>
+      <a href="https://github.com/colinstoutt">
+        <i class="fa-brands fa-github"></i>
+      </a>
+
+      <a href="https://www.linkedin.com/in/colin-stoutt-097b42132/">
+        <i class="fa-brands fa-linkedin"></i>
+      </a>
     </footer>
   </body>
 </html>
