@@ -175,14 +175,14 @@ input {
   padding: 0.5rem;
   border-radius: 13px;
   padding: 0 1rem 0 1rem;
-  width: 30rem;
+  width: 32rem;
   height: 4rem;
   margin-top: 0.5rem;
 }
 textarea {
   border-radius: 13px;
   padding: 1rem 1rem 0 1rem;
-  width: 30rem;
+  width: 32rem;
   height: 10rem;
   margin: 1rem 0 1rem 0;
   resize: none;
@@ -193,6 +193,7 @@ button {
   padding: 1rem 2rem;
   border: 1px solid white;
   color: white;
+  font-size: 1.5rem;
 }
 #message {
   margin-top: 0.5rem;
