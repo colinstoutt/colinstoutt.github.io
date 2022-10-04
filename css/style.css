@@ -332,17 +332,19 @@ footer i {
     display: inline;
     opacity: 0;
     position: absolute;
-    top: 6.7rem;
-    right: 0;
+    top: 6.1rem;
+    right: 15rem;
     font-size: 3rem;
+    padding: 0.5rem;
   }
   #linkedin-contact {
     display: inline;
     opacity: 0;
     position: absolute;
-    top: 6.7rem;
-    right: 0;
+    top: 6.1rem;
+    right: 15rem;
     font-size: 3rem;
+    padding: 0.5rem;
   }
 
   #photo-gallery {
