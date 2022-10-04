@@ -7,17 +7,17 @@ hoverAnimation.forEach(function (link) {
   link.addEventListener("mouseover", function () {
     githubIcon.style.opacity = "100";
     githubIcon.style.right = "14rem";
-    githubIcon.style.transition = "all 0.5s";
+    githubIcon.style.transition = "all 0.2s";
     linkedInIcon.style.opacity = "100";
     linkedInIcon.style.right = "11rem";
-    linkedInIcon.style.transition = "all 0.5s";
+    linkedInIcon.style.transition = "all 0.2s";
   });
   link.addEventListener("mouseout", function () {
     githubIcon.style.opacity = "0";
     githubIcon.style.right = "15rem";
-    githubIcon.style.transition = "all 0.2s";
+    githubIcon.style.transition = "all 0.1s";
     linkedInIcon.style.opacity = "0";
     linkedInIcon.style.right = "15rem";
-    linkedInIcon.style.transition = "all 0.2s";
+    linkedInIcon.style.transition = "all 0.1s";
   });
 });
