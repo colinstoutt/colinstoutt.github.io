@@ -80,7 +80,7 @@ JS
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description
+This code snippet is for my little icon animation for when the user hovers over the contact link.
 
 ```
 const githubIcon = document.getElementById("github-contact");
