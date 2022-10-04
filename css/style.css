@@ -38,24 +38,6 @@ nav a {
 #linkedin-contact {
   opacity: 0;
 }
-#contact-link {
-  position: relative;
-  z-index: 2;
-}
-#github-contact {
-  z-index: 2;
-  position: absolute;
-  top: 8.7rem;
-  right: 15rem;
-  font-size: 3rem;
-}
-#linkedin-contact {
-  z-index: 2;
-  position: absolute;
-  top: 8.7rem;
-  right: 15rem;
-  font-size: 3rem;
-}
 
 #section-hero {
   display: flex;
@@ -266,15 +248,38 @@ footer i {
     display: none;
   }
 
+  #hero-container {
+    position: relative;
+    background-color: #272e43;
+    width: 94rem;
+    margin: auto;
+    height: 80rem;
+  }
+  #hero-title {
+    margin-top: 33rem;
+  }
   nav a {
-    display: inline-block;
+    position: relative;
     font-size: 2rem;
     margin: 2rem 5rem 0 5rem;
     margin-left: 8rem;
     border-radius: 50px;
     border: 1px solid rgba(0, 0, 0, 0);
-    /* padding: 1rem 3rem; */
   }
+
+  #github-contact {
+    position: absolute;
+    top: 6.7rem;
+    right: 0;
+    font-size: 3rem;
+  }
+  #linkedin-contact {
+    position: absolute;
+    top: 6.7rem;
+    right: 0;
+    font-size: 3rem;
+  }
+
   #photo-gallery {
     width: 20rem;
     height: 15rem;
