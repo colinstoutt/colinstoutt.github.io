@@ -33,13 +33,12 @@
 
 #### PostMVP
 
-| Component                            | Priority | Estimated Time | Actual Time |
-| ------------------------------------ | :------: | :------------: | :---------: |
-| Dark mode/light mode                 |    L     |      3hr       |     hr      |
-| Direct Contact form                  |    H     |      3hr       |     hr      |
-| Hover effects                        |    L     |     40min      |     1hr     |
-| Edit a headshot photo in illustrator |    L     |     30min      |     hr      |
-| TOTAL                                |    L     |    10.10hr     |     hr      |
+| Component            | Priority | Estimated Time | Actual Time |
+| -------------------- | :------: | :------------: | :---------: |
+| Dark mode/light mode |    L     |      3hr       |     hr      |
+| Direct Contact form  |    H     |      3hr       |     DNF     |
+| Hover effects        |    L     |     40min      |     1hr     |
+| TOTAL                |    L     |    10.10hr     |     hr      |
 
 ## Outline of content
 
