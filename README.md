@@ -7,7 +7,7 @@
 | Day 1 | Project Description                          | Complete   |
 | Day 2 | Wireframes / Priority Matrix / Timeline      | Complete   |
 | Day 3 | Core Application Structure (HTML, CSS, etc.) | Complete   |
-| Day 4 | MVP & Bug Fixes                              | Incomplete |
+| Day 4 | MVP & Bug Fixes                              | Complete   |
 | Day 5 | Final Touches                                | Incomplete |
 | Day 6 | Present                                      | Incomplete |
 
@@ -23,22 +23,22 @@
 
 | Component               | Priority | Estimated Time | Actual Time |
 | ----------------------- | :------: | :------------: | :---------: |
-| Project Previews        |    H     |      3hr       |     hr      |
+| Project Previews        |    H     |      3hr       |     3hr     |
 | Regular Nav             |    H     |     30min      |     1hr     |
 | Other sections and flex |    M     |      3hr       |     3hr     |
 | Javascript animation    |    H     |      3hr       |     1hr     |
 | Responsive              |    H     |      3hr       |     3hr     |
 | Social Media Icons      |    L     |      1hr       |     1hr     |
-| Total                   |    H     |    13.5hrs     |     hrs     |
+| Total                   |    H     |    13.5hrs     |    12hrs    |
 
 #### PostMVP
 
 | Component            | Priority | Estimated Time | Actual Time |
 | -------------------- | :------: | :------------: | :---------: |
-| Dark mode/light mode |    L     |      3hr       |     hr      |
+| Dark mode/light mode |    L     |      3hr       |     DNF     |
 | Direct Contact form  |    H     |      3hr       |     DNF     |
 | Hover effects        |    L     |     40min      |     1hr     |
-| TOTAL                |    L     |    10.10hr     |     hr      |
+| TOTAL                |    L     |     6.66hr     |     1hr     |
 
 ## Outline of content
 
