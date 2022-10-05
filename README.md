@@ -80,7 +80,7 @@ JS
 
 ## Code Snippet
 
-This code snippet is for my little icon animation for when the user hovers over the contact link.
+Icon animation when user hovers over the main contact link.
 
 ```
 const githubIcon = document.getElementById("github-contact");
