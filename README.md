@@ -26,10 +26,10 @@
 | Project Previews        |    H     |      3hr       |     3hr     |
 | Regular Nav             |    H     |     30min      |     1hr     |
 | Other sections and flex |    M     |      3hr       |     3hr     |
-| Javascript animation    |    H     |      3hr       |     1hr     |
+| Javascript animation    |    H     |      3hr       |     3hr     |
 | Responsive              |    H     |      3hr       |     3hr     |
 | Social Media Icons      |    L     |      1hr       |     1hr     |
-| Total                   |    H     |    13.5hrs     |    12hrs    |
+| Total                   |    H     |    13.5hrs     |    14hrs    |
 
 #### PostMVP
 
@@ -37,8 +37,8 @@
 | -------------------- | :------: | :------------: | :---------: |
 | Dark mode/light mode |    L     |      3hr       |     DNF     |
 | Direct Contact form  |    H     |      3hr       |     DNF     |
-| Hover effects        |    L     |     40min      |     1hr     |
-| TOTAL                |    L     |     6.66hr     |     1hr     |
+| Hover effects        |    L     |     30min      |    30min    |
+| TOTAL                |    L     |     6.66hr     |    0.5hr    |
 
 ## Outline of content
 
